@@ -10,7 +10,7 @@ public class Apple {
 
 	
 	
-	hi preeti
+	hi 
 	
 	
 	

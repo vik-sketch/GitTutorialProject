@@ -6,20 +6,7 @@ public class Apple {
 		System.out.println("I am in Ram branch");
 		System.out.println("I am in Ram branch");
 		System.out.println("conflict");
-
-
-	
-	
-	hi 
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		System.out.println("merge example");
 	}
 	
 
